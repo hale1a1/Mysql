@@ -48,6 +48,7 @@ CREATE TABLE 表名(
 )[ COMMENT 表注释 ];
 ```
 **最后一个字段后面没有逗号**
+![image](https://github.com/hale1a1/Mysql/assets/99935173/6b97872e-b19a-46dc-8600-dc494b4605b9)
 
 添加字段：
 `ALTER TABLE 表名 ADD 字段名 类型(长度) [COMMENT 注释] [约束];`
