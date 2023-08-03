@@ -71,6 +71,7 @@ CREATE TABLE 表名(
 `DROP TABLE [IF EXISTS] 表名;`
 删除表，并重新创建该表：
 `TRUNCATE TABLE 表名;`
+![image](https://github.com/hale1a1/Mysql/assets/99935173/7c5f0db3-7a3e-43f8-8bd7-f0d2be13c1fd)
 
 ### DML（数据操作语言）
 
